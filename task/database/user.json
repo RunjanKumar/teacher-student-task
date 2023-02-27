@@ -1,0 +1,63 @@
+{
+  "1": {
+    "name": "runjan1",
+    "email": "runjan10@gmail.com",
+    "role": "student",
+    "password": "ca7afb8c4555ea1faa0e152e411b522549d84dc7d59036ab3a9b72e5d88658e45279adf180b9a3bd0db7eaab957cdc0b3a4b28adc6652478ea11044597645b0a",
+    "marks": { "chemistry": 176 },
+    "id": 1
+  },
+  "2": {
+    "name": "prateek",
+    "email": "prateek1@gmail.com",
+    "password": "ca7afb8c4555ea1faa0e152e411b522549d84dc7d59036ab3a9b72e5d88658e45279adf180b9a3bd0db7eaab957cdc0b3a4b28adc6652478ea11044597645b0a",
+    "role": "teacher",
+    "subject": "chemistry",
+    "students": { "1": 1677492007263, "3": 554656456 },
+    "id": 2
+  },
+  "3": {
+    "name": "rajan",
+    "email": "rajan1@gmail.com",
+    "password": "ca7afb8c4555ea1faa0e152e411b522549d84dc7d59036ab3a9b72e5d88658e45279adf180b9a3bd0db7eaab957cdc0b3a4b28adc6652478ea11044597645b0a",
+    "role": "student",
+    "marks": { "chemistry": 0 },
+    "id": 3
+  },
+  "4": {
+    "name": "pratham",
+    "email": "pratham@gmail.com",
+    "password": "ca7afb8c4555ea1faa0e152e411b522549d84dc7d59036ab3a9b72e5d88658e45279adf180b9a3bd0db7eaab957cdc0b3a4b28adc6652478ea11044597645b0a",
+    "role": "teacher",
+    "subject": "node js",
+    "students": {},
+    "id": 4
+  },
+  "5": {
+    "name": "pratham1",
+    "email": "pratham1@gmail.com",
+    "password": "ca7afb8c4555ea1faa0e152e411b522549d84dc7d59036ab3a9b72e5d88658e45279adf180b9a3bd0db7eaab957cdc0b3a4b28adc6652478ea11044597645b0a",
+    "role": "teacher",
+    "subject": [],
+    "students": {},
+    "id": 5
+  },
+  "6": {
+    "name": "pratham1",
+    "email": "pratham12@gmail.com",
+    "password": "ca7afb8c4555ea1faa0e152e411b522549d84dc7d59036ab3a9b72e5d88658e45279adf180b9a3bd0db7eaab957cdc0b3a4b28adc6652478ea11044597645b0a",
+    "role": "teacher",
+    "subject": {},
+    "students": {},
+    "id": 6
+  },
+  "8": {
+    "name": "pratham1",
+    "email": "pratham152@gmail.com",
+    "password": "ca7afb8c4555ea1faa0e152e411b522549d84dc7d59036ab3a9b72e5d88658e45279adf180b9a3bd0db7eaab957cdc0b3a4b28adc6652478ea11044597645b0a",
+    "role": "teacher",
+    "subject": "honey",
+    "students": {},
+    "id": 8
+  }
+}
